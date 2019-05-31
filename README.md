@@ -1,5 +1,4 @@
-# CortexCommunity
-Cortex社区
+# Cortex社区
 
 1 创世团队实力雄厚：Cortex 团队由来自清华大学和哥伦比亚大学等顶尖大学的加密货币专家与在 Kaggle 和 KDD 排名前 1％ 的人工智能专家等所组成，对AI和区块链行业有深刻的理解。
 
